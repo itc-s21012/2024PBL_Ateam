@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">2024PBL_Ateam</string>
+    <string name="tv_msg">メモアプリに近いTo Doリストアプリ</string>
+    <string name="bt_Login">ログイン</string>
+    <string name="bt_Subscribe">新規登録</string>
+    <string name="tvName">お名前</string>
 </resources>
