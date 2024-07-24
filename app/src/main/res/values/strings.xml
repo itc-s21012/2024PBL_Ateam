@@ -4,4 +4,9 @@
     <string name="bt_Login">ログイン</string>
     <string name="bt_Subscribe">新規登録</string>
     <string name="tvName">お名前</string>
+    <string name="tvEmail">メールアドレス</string>
+    <string name="tvPassword">パスワード</string>
+    <string name="tvRegister">登録</string>
+    <string name="tvDelete">削除</string>
+    <string name="tvRegisterInformasion">ご登録情報</string>
 </resources>
