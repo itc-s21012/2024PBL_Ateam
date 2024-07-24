@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2024PBL_Ateam</string>
+    <string name="Todo_risuto">Todoリスト</string>
+    <string name="todo_list">やること</string>
+    <string name="todo_list2">やること</string>
+    <string name="todo_list3">期限</string>
+    <string name="todo_list4">期限</string>
+    <string name="todo_listok">完了</string>
+    <string name="todo_listok2">完了</string>
+    <string name="todo_listok3">完了</string>
+    <string name="todo_text">Todo</string>
+    <string name="todo_text2">期限</string>
+    <string name="todo_delete">消去</string>
+    <string name="todo_delete2">消去</string>
+    <string name="todo_delete3">消去</string>
+</resources>

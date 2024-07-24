@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">2024PBL_Ateam</string>
+    <string name="Todo_risuto">qwertyuiop</string>
+    <string name="todo_list">text</string>
+    <string name="todo_list2">text</string>
+    <string name="todo_list3">text</string>
+    <string name="todo_list4">text</string>
+    <string name="todo_listok">ok</string>
+    <string name="todo_listok2">ok</string>
+    <string name="todo_listok3">ok</string>
+    <string name="todo_text">Todo</string>
+    <string name="todo_text2">time</string>
+    <string name="todo_delete">delete</string>
+    <string name="todo_delete2">delete</string>
+    <string name="todo_delete3">delete</string>
 </resources>
