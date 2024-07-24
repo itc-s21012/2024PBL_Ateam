@@ -8,5 +8,6 @@
     <string name="tvPassword">パスワード</string>
     <string name="tvRegister">登録</string>
     <string name="tvDelete">削除</string>
-    <string name="tvRegisterInformasion">ご登録情報</string>
+    <string name="tvRegisterInformation">ご登録情報</string>
+    <string name="tvBack">戻る</string>
 </resources>

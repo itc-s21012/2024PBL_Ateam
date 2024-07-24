@@ -1,6 +1,7 @@
 package com.example.a2024pbl_ateam
 
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -15,6 +16,12 @@ class RegisterActivity : AppCompatActivity() {
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
+        }
+
+        // 戻るボタンの設定
+        val backButton: Button = findViewById(R.id.tvBack)
+        backButton.setOnClickListener{
+            finish()
         }
     }
 }
